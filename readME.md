@@ -1,0 +1,1 @@
+"This is a dynamic drawing app featuring a variety of color options, adjustable brush sizes for thicker or thinner lines, and a one-click clear canvas function for a seamless creative experience." Using HTML-5, CSS, .JS
